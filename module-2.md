@@ -1,6 +1,8 @@
 # Module 2
 
-[javascript 1 - HYF](https://github.com/HackYourFutureBelgium/JavaScript1),  [js 1 - colevanders](https://github.com/colevandersWands/javascript-1)
+[javascript 1 - HYF](https://github.com/HackYourFutureBelgium/JavaScript1),  [js 1 - colevanders](https://github.com/colevandersWands/javascript-1)  
+[git](https://github.com/HackYourFuture/Git)  
+[debugging](https://github.com/HackYourFuture/debugging)
 
 ___
 ___

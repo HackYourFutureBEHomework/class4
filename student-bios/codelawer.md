@@ -1,4 +1,5 @@
 # Welcome to introduction of the codelawer github portfolio.
+![](./images/lawcode.jpg)
 
 ## Links
 
@@ -16,3 +17,6 @@
 1. HTML;
 1. CSS;
 1. JavaScript
+
+
+

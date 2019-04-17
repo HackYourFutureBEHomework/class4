@@ -6,6 +6,9 @@
 
 ### <a href="https://hackyourfuture.be" target="_blank"><img src="https://pbs.twimg.com/profile_images/984474625009741824/Bs_qKx6-_400x400.jpg" width="100" height="100"></img></a>
 
+
+1. [abdulsalamalmahdi](https://github.com/abdulsalamalmahdi/HYF-javascript1)
+1. [yousefnk](https://github.com/yousefnk/HYF-javascript1)
 1. [abdulsalamalmahdi- HYF-javascript1](https://github.com/abdulsalamalmahdi/HYF-javascript1)
 1. [Nihan2019/HYF-javascript1](https://github.com/Nihan2019/HYF-javascript1)
 1. [FaziletKosure/HYF-javascript1](https://github.com/FaziletKosure/HYF-javascript1)

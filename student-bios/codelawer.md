@@ -1,22 +1,14 @@
 # Welcome to introduction of the codelawer github portfolio.
-![](./images/lawcode.jpg)
+
+<img src="http://tinyurl.com/y5a3eyoo" width="200" height="100"></img> 
 
 ## Links
-
-[codelawer logo](http://tinyurl.com/y23kbgk9)
-
-[codelawer MarkDown page](https://codelawer.github.io/)
-
 [HYF-JavaScript1](https://github.com/codelawer/HYF-javascript-1)
 
 [My github account](https://github.com/codelawer)
 
-- **_lorem ipsum dolor_**
-  - **Lorem ipsum dolor**
+[codelawer MarkDown page](https://codelawer.github.io/)
 
-1. HTML;
-1. CSS;
-1. JavaScript
-
-
-
+[TOP](#Welcome_to_introduction_of_the_codelawer_github_portfolio.)
+___
+### <a href="https://github.com/codelawer" target="_blank"><img src="http://tinyurl.com/y5a3eyoo" width="60" height="40"></img> codeLawer</a>

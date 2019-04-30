@@ -15,3 +15,4 @@
 1. [bilal-HYF-Javascript1](https://github.com/BilalAlobedi/HYF-Javascript1n)
 1. [msenaavci/HYF-javascript1](https://github.com/msenaavci/HYF-javascript1)
 1. [Alfi Yusrina Homework JS 1](https://github.com/AlfiYusrina/hyf-javascript1)
+1. [Frisca Julia Homework JS 1] (https://github.com/Frisca13/HYF-javascript1)
